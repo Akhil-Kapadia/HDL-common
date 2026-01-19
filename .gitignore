@@ -1,0 +1,6 @@
+.pytest_cache/
+**__pycache__**
+.venv
+uv.lock
+sim_build_fwft_0/
+sim_build_fwft_1/

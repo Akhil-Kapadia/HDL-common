@@ -1,0 +1,11 @@
+[project]
+name = "axis-async-fifo"
+version = "0.1.0"
+description = "AXI Stream Async FIFO with Cocotb Verification"
+requires-python = ">=3.10"
+dependencies = [
+    "cocotb>=1.9.0",
+    "cocotb-bus>=0.2.1",
+    "cocotb-test>=0.2.5",
+    "pytest>=8.0.0",
+]
